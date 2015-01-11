@@ -1,0 +1,5 @@
+127.0.0.1 - - [Sun, 11 Jan 2015 19:20:31 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+127.0.0.1 - - [Sun, 11 Jan 2015 19:20:31 GMT] "GET /favicon.ico HTTP/1.1" 404 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+127.0.0.1 - - [Sun, 11 Jan 2015 19:20:41 GMT] "POST /log-in HTTP/1.1" 302 64 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+127.0.0.1 - - [Sun, 11 Jan 2015 19:20:41 GMT] "GET /app HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+127.0.0.1 - - [Sun, 11 Jan 2015 19:20:41 GMT] "GET /js/main.js HTTP/1.1" 304 - "http://localhost:3000/app" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"

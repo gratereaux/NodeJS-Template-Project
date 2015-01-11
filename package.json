@@ -1,0 +1,16 @@
+{
+  "name": "JoseExpress",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "connect-redis": "^2.1.0",
+    "cookie-parser": "^1.3.3",
+    "express": "^4.10.7",
+    "express-logger": "0.0.3",
+    "express-session": "^1.10.1",
+    "express.io": "^1.1.13",
+    "redis": "^0.12.1",
+    "swig": "^1.4.2",
+    "underscore": "^1.7.0"
+  }
+}
