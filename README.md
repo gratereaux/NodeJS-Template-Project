@@ -22,4 +22,9 @@ the folder /public is for the Static Archives.
 ---------------
 
 ** No Database manager added yet
+
 ** Socket IO configured
+
+----------------
+
+To install all the modules just run > npm install < in the console inside the main directory of the project.
